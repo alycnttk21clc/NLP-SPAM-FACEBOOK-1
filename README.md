@@ -17,9 +17,7 @@ Mục tiêu là hỗ trợ quản lý bình luận, loại bỏ các nội dung 
 - `README.md` – Tài liệu mô tả dự án.
 
 ## 🚀 Cách chạy
-Bạn có thể mở trực tiếp project trên Google Colab bằng nút dưới đây:
-
-https://colab.research.google.com/drive/1Is44pjEdwLuYUFI2DFc60BZsA6ydq45v?usp=sharing
+Bạn có thể mở trực tiếp project trên Google Colab bằng nút dưới đây: https://colab.research.google.com/drive/1XWIk0kAXJkkBUao6mU_TZplgxgo1J1LD?usp=sharing
 
 Hoặc clone repo về máy và chạy:
 ```bash
